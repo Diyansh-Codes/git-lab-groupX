@@ -51,3 +51,4 @@ blood-bank-project/
 
 ⚠️ Important Limitation
 This project uses localStorage, which means all data (donors and requests) is stored locally within your specific web browser. It is a simulation of a full-stack application and the data cannot be accessed from another computer or a different browser. The "user" and the "admin" must be using the same browser on the same machine to see the data.
+
